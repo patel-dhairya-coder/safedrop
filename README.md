@@ -212,23 +212,6 @@ This project showcases understanding of:
 - File type restrictions
 - Virus scanning
 
-## 🎓 Resume/Portfolio Impact
-
-This project demonstrates:
-
-✅ **Full-stack development**: Backend (Django) + Frontend (JS/CSS)  
-✅ **Network programming**: Socket programming, IP addressing  
-✅ **System design**: Client-server architecture  
-✅ **Practical problem-solving**: Real-world use case  
-✅ **Large file handling**: Chunked uploads, memory efficiency  
-✅ **UI/UX design**: Drag-and-drop, responsive design  
-
-**Perfect for interviews about:**
-- Computer Networks
-- Web Development
-- System Design
-- Problem-Solving
-
 ## 🐛 Troubleshooting
 
 ### "Connection Refused" Error
@@ -271,10 +254,6 @@ This is a portfolio project, but feel free to fork and enhance!
 - Create mobile app version
 - Add peer-to-peer mode
 - Support video streaming
-
-## 📧 Contact
-
-Created as a networking portfolio project.
 
 ---
 
